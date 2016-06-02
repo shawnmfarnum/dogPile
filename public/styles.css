@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+}
+
+.main{
+  background-image: image('pexels-photo-47444.jpeg') no-repeat 50% 50% fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+}
+.inputSection label, input{
+    display: inline;
+    margin-bottom: 1%;
+}
+
+.inputSection .subButton{
+  display: block;
+}
+.inputSection{
+    margin-bottom: 3%;
+}
+.dataRowOne{
+    margin-left: 2%;
+}
+.dataRowTwo{
+    margin-left: 2%;
+}
+.dataRowThree{
+    margin-left: 2%;
+}
+.dataRowFour{
+    margin-left: 2%;
+}
+.dataRowOne input{
+    display: inline;
+    margin-right: 1%;
+    margin-bottom: 1%;
+}
+.dataRowTwo input{
+    display: inline;
+    margin-right: 1%;
+    margin-bottom: 1%;
+}
+.dataRowThree input{
+    display: inline;
+    margin-right: 1%;
+    margin-bottom: 1%;
+}
+.dataRowFour input{
+    display: inline;
+    margin-right: 1%;
+}
+.labelOne{
+    margin-left: 2%;
+}
+.labelTwo{
+    margin-left: 7%;
+}
+.labelThree{
+    margin-left: 7%;
+}
