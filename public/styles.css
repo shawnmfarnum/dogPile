@@ -1,13 +1,18 @@
 h1{
     text-align: center;
+    position: relative;
+    top: 35px;
 }
-
-.main{
-  background-image: image('pexels-photo-47444.jpeg') no-repeat 50% 50% fixed;
+body#background {
+  background: url('pexels-photo-47444.jpg') no-repeat 50% 50% fixed;
   background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
+}
+
+.main{
+
 }
 .inputSection label, input{
     display: inline;
